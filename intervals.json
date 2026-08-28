@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T17:55:25.896279",
+  "generated_at": "2026-08-28T01:29:18.734328",
   "schema_version": 1,
   "version": "3.128",
   "script_hash": "bdb9610cbd7c",
@@ -903,124 +903,6 @@
       "zone_basis": "hr"
     },
     {
-      "activity_id": "i175341576",
-      "date": "2026-08-13",
-      "start_datetime": "2026-08-13T06:29:40",
-      "type": "Run",
-      "name": "\u00c1ll\u00f3k\u00e9pess\u00e9g/FATMAX E1",
-      "interval_summary": [
-        "7x 7m9s 116bpm",
-        "1x 2s 119bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "429s@116bpm78rpm",
-          "duration_secs": 431,
-          "moving_secs": 431,
-          "start_secs": 0,
-          "end_secs": 431,
-          "avg_hr": 108,
-          "max_hr": 118,
-          "min_hr": 72,
-          "avg_cadence": 80.13457,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "429s@116bpm78rpm",
-          "duration_secs": 430,
-          "moving_secs": 430,
-          "start_secs": 431,
-          "end_secs": 861,
-          "avg_hr": 115,
-          "max_hr": 121,
-          "min_hr": 105,
-          "avg_cadence": 79.79302,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "429s@116bpm78rpm",
-          "duration_secs": 432,
-          "moving_secs": 432,
-          "start_secs": 861,
-          "end_secs": 1293,
-          "avg_hr": 117,
-          "max_hr": 122,
-          "min_hr": 102,
-          "avg_cadence": 79.145836,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "429s@116bpm78rpm",
-          "duration_secs": 436,
-          "moving_secs": 436,
-          "start_secs": 1293,
-          "end_secs": 1729,
-          "avg_hr": 116,
-          "max_hr": 120,
-          "min_hr": 102,
-          "avg_cadence": 75.57798,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "429s@116bpm78rpm",
-          "duration_secs": 430,
-          "moving_secs": 430,
-          "start_secs": 1729,
-          "end_secs": 2159,
-          "avg_hr": 118,
-          "max_hr": 121,
-          "min_hr": 105,
-          "avg_cadence": 79.69535,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "429s@116bpm78rpm",
-          "duration_secs": 435,
-          "moving_secs": 435,
-          "start_secs": 2159,
-          "end_secs": 2594,
-          "avg_hr": 118,
-          "max_hr": 122,
-          "min_hr": 114,
-          "avg_cadence": 75.58391,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "429s@116bpm78rpm",
-          "duration_secs": 408,
-          "moving_secs": 408,
-          "start_secs": 2594,
-          "end_secs": 3002,
-          "avg_hr": 119,
-          "max_hr": 122,
-          "min_hr": 116,
-          "avg_cadence": 79.47304,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "2s@119bpm77rpm",
-          "duration_secs": 2,
-          "moving_secs": 2,
-          "start_secs": 3002,
-          "end_secs": 3004,
-          "avg_hr": 119,
-          "max_hr": 119,
-          "min_hr": 119,
-          "avg_cadence": 76.5,
-          "zone": 1
-        }
-      ],
-      "zone_basis": "hr"
-    },
-    {
       "activity_id": "i180437691",
       "date": "2026-08-27",
       "start_datetime": "2026-08-27T18:17:38",
@@ -1391,12 +1273,12 @@
         "source_icu_sync_date": "2026-08-25T04:52:29.574+00:00"
       },
       "streams": {
-        "attempts": 3,
+        "attempts": 4,
         "first_seen": "2026-08-26T14:03:17.416066",
-        "last_attempt": "2026-08-27T17:55:25.896279",
+        "last_attempt": "2026-08-28T01:29:18.734328",
         "status": "pending",
         "reason": "no_data",
-        "next_retry_at": "2026-08-27T18:00:25.896279"
+        "next_retry_at": "2026-08-28T01:34:18.734328"
       }
     },
     "i178980421": {
@@ -1525,24 +1407,6 @@
         "reason": "retry_expired"
       }
     },
-    "i175341576": {
-      "date": "2026-08-13",
-      "intervals": {
-        "attempts": 1,
-        "first_seen": "2026-08-26T14:03:17.416066",
-        "last_attempt": "2026-08-26T14:03:17.416066",
-        "status": "ok",
-        "reason": "ok",
-        "source_icu_sync_date": "2026-08-13T05:38:13.847+00:00"
-      },
-      "streams": {
-        "attempts": 1,
-        "first_seen": "2026-08-26T14:03:17.416066",
-        "last_attempt": "2026-08-26T14:03:17.416066",
-        "status": "tombstone",
-        "reason": "retry_expired"
-      }
-    },
     "i180437691": {
       "date": "2026-08-27",
       "intervals": {
@@ -1554,12 +1418,12 @@
         "source_icu_sync_date": "2026-08-27T17:28:45.710+00:00"
       },
       "streams": {
-        "attempts": 1,
+        "attempts": 2,
         "first_seen": "2026-08-27T17:55:25.896279",
-        "last_attempt": "2026-08-27T17:55:25.896279",
+        "last_attempt": "2026-08-28T01:29:18.734328",
         "status": "pending",
         "reason": "no_data",
-        "next_retry_at": "2026-08-27T18:00:25.896279"
+        "next_retry_at": "2026-08-28T01:34:18.734328"
       }
     }
   }

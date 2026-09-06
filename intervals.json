@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T23:47:12.511215",
+  "generated_at": "2026-09-06T00:05:27.665219",
   "schema_version": 1,
   "version": "3.128",
   "script_hash": "bdb9610cbd7c",
@@ -305,110 +305,6 @@
           "max_hr": 86,
           "min_hr": 79,
           "zone": 1
-        }
-      ],
-      "zone_basis": "hr"
-    },
-    {
-      "activity_id": "i178651153",
-      "date": "2026-08-22",
-      "start_datetime": "2026-08-22T17:45:23",
-      "type": "Run",
-      "name": "Intersport Keszthelyi km-ek",
-      "interval_summary": [
-        "7x 5m52s 146bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "352s@146bpm81rpm",
-          "duration_secs": 371,
-          "moving_secs": 360,
-          "start_secs": 0,
-          "end_secs": 371,
-          "avg_hr": 136,
-          "max_hr": 141,
-          "min_hr": 117,
-          "avg_cadence": 82.91413,
-          "zone": 4
-        },
-        {
-          "type": "WORK",
-          "label": "352s@146bpm81rpm",
-          "duration_secs": 353,
-          "moving_secs": 353,
-          "start_secs": 371,
-          "end_secs": 724,
-          "avg_hr": 140,
-          "max_hr": 149,
-          "min_hr": 130,
-          "avg_cadence": 81.75354,
-          "zone": 4
-        },
-        {
-          "type": "WORK",
-          "label": "352s@146bpm81rpm",
-          "duration_secs": 353,
-          "moving_secs": 353,
-          "start_secs": 724,
-          "end_secs": 1077,
-          "avg_hr": 145,
-          "max_hr": 148,
-          "min_hr": 143,
-          "avg_cadence": 81.38244,
-          "zone": 5
-        },
-        {
-          "type": "WORK",
-          "label": "352s@146bpm81rpm",
-          "duration_secs": 359,
-          "moving_secs": 359,
-          "start_secs": 1077,
-          "end_secs": 1436,
-          "avg_hr": 146,
-          "max_hr": 150,
-          "min_hr": 136,
-          "avg_cadence": 80.63509,
-          "zone": 6
-        },
-        {
-          "type": "WORK",
-          "label": "352s@146bpm81rpm",
-          "duration_secs": 359,
-          "moving_secs": 359,
-          "start_secs": 1436,
-          "end_secs": 1795,
-          "avg_hr": 148,
-          "max_hr": 152,
-          "min_hr": 146,
-          "avg_cadence": 80.31198,
-          "zone": 6
-        },
-        {
-          "type": "WORK",
-          "label": "352s@146bpm81rpm",
-          "duration_secs": 352,
-          "moving_secs": 352,
-          "start_secs": 1795,
-          "end_secs": 2147,
-          "avg_hr": 149,
-          "max_hr": 157,
-          "min_hr": 139,
-          "avg_cadence": 80.40625,
-          "zone": 6
-        },
-        {
-          "type": "WORK",
-          "label": "352s@146bpm81rpm",
-          "duration_secs": 319,
-          "moving_secs": 319,
-          "start_secs": 2147,
-          "end_secs": 2466,
-          "avg_hr": 155,
-          "max_hr": 164,
-          "min_hr": 149,
-          "avg_cadence": 82.63323,
-          "zone": 7
         }
       ],
       "zone_basis": "hr"
@@ -1562,24 +1458,6 @@
         "status": "ok",
         "reason": "ok",
         "source_icu_sync_date": "2026-08-23T12:52:25.655+00:00"
-      },
-      "streams": {
-        "attempts": 1,
-        "first_seen": "2026-08-26T14:03:17.416066",
-        "last_attempt": "2026-08-26T14:03:17.416066",
-        "status": "tombstone",
-        "reason": "retry_expired"
-      }
-    },
-    "i178651153": {
-      "date": "2026-08-22",
-      "intervals": {
-        "attempts": 1,
-        "first_seen": "2026-08-26T14:03:17.416066",
-        "last_attempt": "2026-08-26T14:03:17.416066",
-        "status": "ok",
-        "reason": "ok",
-        "source_icu_sync_date": "2026-08-22T16:29:59.200+00:00"
       },
       "streams": {
         "attempts": 1,

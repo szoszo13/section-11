@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T15:24:53.463066",
+  "generated_at": "2026-09-10T15:37:16.975023",
   "schema_version": 1,
   "version": "3.128",
   "script_hash": "bdb9610cbd7c",
@@ -1381,6 +1381,57 @@
         }
       ],
       "zone_basis": "hr"
+    },
+    {
+      "activity_id": "i185299047",
+      "date": "2026-09-10",
+      "start_datetime": "2026-09-10T16:55:57",
+      "type": "Ride",
+      "name": "Szabadsz\u00e1ll\u00e1s Ker\u00e9kp\u00e1roz\u00e1s",
+      "interval_summary": [
+        "1x 13m7s 103bpm",
+        "1x 11m43s 105bpm",
+        "1x 5m12s 110bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "787s@103bpm",
+          "duration_secs": 787,
+          "moving_secs": 787,
+          "start_secs": 0,
+          "end_secs": 787,
+          "avg_hr": 103,
+          "max_hr": 112,
+          "min_hr": 72,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "703s@105bpm",
+          "duration_secs": 703,
+          "moving_secs": 703,
+          "start_secs": 787,
+          "end_secs": 1490,
+          "avg_hr": 105,
+          "max_hr": 111,
+          "min_hr": 97,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "312s@110bpm",
+          "duration_secs": 312,
+          "moving_secs": 312,
+          "start_secs": 1490,
+          "end_secs": 1802,
+          "avg_hr": 110,
+          "max_hr": 123,
+          "min_hr": 106,
+          "zone": 1
+        }
+      ],
+      "zone_basis": "hr"
     }
   ],
   "fetch_state": {
@@ -1527,6 +1578,25 @@
         "status": "pending",
         "reason": "no_data",
         "next_retry_at": "2026-09-10T18:46:42.081734"
+      }
+    },
+    "i185299047": {
+      "date": "2026-09-10",
+      "intervals": {
+        "attempts": 1,
+        "first_seen": "2026-09-10T15:37:16.975023",
+        "last_attempt": "2026-09-10T15:37:16.975023",
+        "status": "ok",
+        "reason": "ok",
+        "source_icu_sync_date": "2026-09-10T15:27:04.148+00:00"
+      },
+      "streams": {
+        "attempts": 1,
+        "first_seen": "2026-09-10T15:37:16.975023",
+        "last_attempt": "2026-09-10T15:37:16.975023",
+        "status": "pending",
+        "reason": "no_data",
+        "next_retry_at": "2026-09-10T15:42:16.975023"
       }
     }
   }

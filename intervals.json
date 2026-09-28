@@ -1,103 +1,11 @@
 {
-  "generated_at": "2026-09-27T22:24:19.274566",
+  "generated_at": "2026-09-28T00:58:15.505683",
   "schema_version": 1,
   "version": "3.128",
   "script_hash": "bdb9610cbd7c",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i186094563",
-      "date": "2026-09-13",
-      "start_datetime": "2026-09-13T07:00:01",
-      "type": "Run",
-      "name": "Szabadsz\u00e1ll\u00e1s Fut\u00e1s",
-      "interval_summary": [
-        "5x 7m11s 111bpm",
-        "1x 14m8s 114bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "431s@111bpm79rpm",
-          "duration_secs": 426,
-          "moving_secs": 426,
-          "start_secs": 0,
-          "end_secs": 426,
-          "avg_hr": 104,
-          "max_hr": 112,
-          "min_hr": 57,
-          "avg_cadence": 79.096245,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "431s@111bpm79rpm",
-          "duration_secs": 431,
-          "moving_secs": 431,
-          "start_secs": 426,
-          "end_secs": 857,
-          "avg_hr": 110,
-          "max_hr": 114,
-          "min_hr": 108,
-          "avg_cadence": 78.99304,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "431s@111bpm79rpm",
-          "duration_secs": 432,
-          "moving_secs": 432,
-          "start_secs": 857,
-          "end_secs": 1289,
-          "avg_hr": 112,
-          "max_hr": 116,
-          "min_hr": 101,
-          "avg_cadence": 79.53472,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "431s@111bpm79rpm",
-          "duration_secs": 431,
-          "moving_secs": 431,
-          "start_secs": 1289,
-          "end_secs": 1720,
-          "avg_hr": 115,
-          "max_hr": 121,
-          "min_hr": 112,
-          "avg_cadence": 79.55221,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "431s@111bpm79rpm",
-          "duration_secs": 436,
-          "moving_secs": 436,
-          "start_secs": 1720,
-          "end_secs": 2156,
-          "avg_hr": 114,
-          "max_hr": 118,
-          "min_hr": 100,
-          "avg_cadence": 79.15826,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "848s@114bpm79rpm",
-          "duration_secs": 848,
-          "moving_secs": 848,
-          "start_secs": 2156,
-          "end_secs": 3004,
-          "avg_hr": 114,
-          "max_hr": 118,
-          "min_hr": 111,
-          "avg_cadence": 78.9941,
-          "zone": 1
-        }
-      ],
-      "zone_basis": "hr"
-    },
     {
       "activity_id": "i187012156",
       "date": "2026-09-15",
@@ -1581,24 +1489,6 @@
     }
   ],
   "fetch_state": {
-    "i186094563": {
-      "date": "2026-09-13",
-      "intervals": {
-        "attempts": 2,
-        "first_seen": "2026-09-13T06:04:56.167890",
-        "last_attempt": "2026-09-19T17:47:40.284954",
-        "status": "ok",
-        "reason": "ok",
-        "source_icu_sync_date": "2026-09-19T17:32:41.613+00:00"
-      },
-      "streams": {
-        "attempts": 24,
-        "first_seen": "2026-09-13T06:04:56.167890",
-        "last_attempt": "2026-09-16T07:04:27.478564",
-        "status": "tombstone",
-        "reason": "retry_expired"
-      }
-    },
     "i187012156": {
       "date": "2026-09-15",
       "intervals": {
@@ -1737,12 +1627,12 @@
         "source_icu_sync_date": "2026-09-27T09:06:22.350+00:00"
       },
       "streams": {
-        "attempts": 5,
+        "attempts": 6,
         "first_seen": "2026-09-27T09:34:44.532918",
-        "last_attempt": "2026-09-27T22:24:19.274566",
+        "last_attempt": "2026-09-28T00:58:15.505683",
         "status": "pending",
         "reason": "no_data",
-        "next_retry_at": "2026-09-27T22:29:19.274566"
+        "next_retry_at": "2026-09-28T01:03:15.505683"
       }
     }
   }

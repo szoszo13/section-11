@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:55:13.272021",
+  "generated_at": "2026-11-14T15:24:46.363918",
   "schema_version": 1,
   "version": "3.128",
   "script_hash": "bdb9610cbd7c",
@@ -1505,39 +1505,39 @@
       "type": "Run",
       "name": "Si\u00f3fok harmadmaraton",
       "interval_summary": [
-        "14x 5m33s 146bpm",
+        "1x 9m57s 140bpm",
+        "12x 5m32s 145bpm",
         "1x 48s 152bpm"
       ],
       "intervals": [
         {
-          "type": "WORK",
-          "label": "333s@146bpm84rpm",
-          "duration_secs": 325,
-          "moving_secs": 325,
+          "type": "RECOVERY",
+          "duration_secs": 60,
+          "moving_secs": 60,
           "start_secs": 0,
-          "end_secs": 325,
-          "avg_hr": 157,
-          "max_hr": 171,
+          "end_secs": 60,
+          "avg_hr": 108,
+          "max_hr": 121,
           "min_hr": 91,
-          "avg_cadence": 85.38154,
-          "zone": 7
+          "avg_cadence": 86.76667,
+          "zone": 1
         },
         {
           "type": "WORK",
-          "label": "333s@146bpm84rpm",
-          "duration_secs": 332,
-          "moving_secs": 332,
-          "start_secs": 325,
+          "label": "597s@140bpm85rpm",
+          "duration_secs": 597,
+          "moving_secs": 597,
+          "start_secs": 60,
           "end_secs": 657,
-          "avg_hr": 158,
-          "max_hr": 171,
-          "min_hr": 139,
-          "avg_cadence": 84.18976,
-          "zone": 7
+          "avg_hr": 140,
+          "max_hr": 169,
+          "min_hr": 123,
+          "avg_cadence": 84.57957,
+          "zone": 4
         },
         {
           "type": "WORK",
-          "label": "333s@146bpm84rpm",
+          "label": "332s@145bpm83rpm",
           "duration_secs": 339,
           "moving_secs": 339,
           "start_secs": 657,
@@ -1550,7 +1550,7 @@
         },
         {
           "type": "WORK",
-          "label": "333s@146bpm84rpm",
+          "label": "332s@145bpm83rpm",
           "duration_secs": 336,
           "moving_secs": 336,
           "start_secs": 996,
@@ -1563,7 +1563,7 @@
         },
         {
           "type": "WORK",
-          "label": "333s@146bpm84rpm",
+          "label": "332s@145bpm83rpm",
           "duration_secs": 342,
           "moving_secs": 342,
           "start_secs": 1332,
@@ -1576,7 +1576,7 @@
         },
         {
           "type": "WORK",
-          "label": "333s@146bpm84rpm",
+          "label": "332s@145bpm83rpm",
           "duration_secs": 341,
           "moving_secs": 341,
           "start_secs": 1674,
@@ -1589,7 +1589,7 @@
         },
         {
           "type": "WORK",
-          "label": "333s@146bpm84rpm",
+          "label": "332s@145bpm83rpm",
           "duration_secs": 340,
           "moving_secs": 340,
           "start_secs": 2015,
@@ -1602,7 +1602,7 @@
         },
         {
           "type": "WORK",
-          "label": "333s@146bpm84rpm",
+          "label": "332s@145bpm83rpm",
           "duration_secs": 343,
           "moving_secs": 343,
           "start_secs": 2355,
@@ -1615,7 +1615,7 @@
         },
         {
           "type": "WORK",
-          "label": "333s@146bpm84rpm",
+          "label": "332s@145bpm83rpm",
           "duration_secs": 331,
           "moving_secs": 331,
           "start_secs": 2698,
@@ -1627,21 +1627,33 @@
           "zone": 6
         },
         {
-          "type": "WORK",
-          "label": "333s@146bpm84rpm",
-          "duration_secs": 336,
-          "moving_secs": 336,
+          "type": "RECOVERY",
+          "duration_secs": 11,
+          "moving_secs": 11,
           "start_secs": 3029,
+          "end_secs": 3040,
+          "avg_hr": 146,
+          "max_hr": 147,
+          "min_hr": 146,
+          "avg_cadence": 83.0,
+          "zone": 6
+        },
+        {
+          "type": "WORK",
+          "label": "332s@145bpm83rpm",
+          "duration_secs": 325,
+          "moving_secs": 325,
+          "start_secs": 3040,
           "end_secs": 3365,
           "avg_hr": 145,
           "max_hr": 148,
           "min_hr": 137,
-          "avg_cadence": 82.78274,
+          "avg_cadence": 82.77538,
           "zone": 5
         },
         {
           "type": "WORK",
-          "label": "333s@146bpm84rpm",
+          "label": "332s@145bpm83rpm",
           "duration_secs": 327,
           "moving_secs": 327,
           "start_secs": 3365,
@@ -1654,7 +1666,7 @@
         },
         {
           "type": "WORK",
-          "label": "333s@146bpm84rpm",
+          "label": "332s@145bpm83rpm",
           "duration_secs": 322,
           "moving_secs": 322,
           "start_secs": 3692,
@@ -1667,7 +1679,7 @@
         },
         {
           "type": "WORK",
-          "label": "333s@146bpm84rpm",
+          "label": "332s@145bpm83rpm",
           "duration_secs": 326,
           "moving_secs": 326,
           "start_secs": 4014,
@@ -1680,7 +1692,7 @@
         },
         {
           "type": "WORK",
-          "label": "333s@146bpm84rpm",
+          "label": "332s@145bpm83rpm",
           "duration_secs": 317,
           "moving_secs": 317,
           "start_secs": 4340,
@@ -1828,12 +1840,12 @@
         "source_icu_sync_date": "2026-11-11T17:01:08.470+00:00"
       },
       "streams": {
-        "attempts": 3,
+        "attempts": 4,
         "first_seen": "2026-11-11T17:49:51.655029",
-        "last_attempt": "2026-11-14T14:55:13.272021",
+        "last_attempt": "2026-11-14T15:24:46.363918",
         "status": "pending",
         "reason": "no_data",
-        "next_retry_at": "2026-11-14T15:00:13.272021"
+        "next_retry_at": "2026-11-14T15:29:46.363918"
       }
     },
     "i209605414": {
@@ -1847,31 +1859,31 @@
         "source_icu_sync_date": "2026-11-13T16:20:58.254+00:00"
       },
       "streams": {
-        "attempts": 2,
+        "attempts": 3,
         "first_seen": "2026-11-13T16:48:46.310737",
-        "last_attempt": "2026-11-14T14:55:13.272021",
+        "last_attempt": "2026-11-14T15:24:46.363918",
         "status": "pending",
         "reason": "no_data",
-        "next_retry_at": "2026-11-14T15:00:13.272021"
+        "next_retry_at": "2026-11-14T15:29:46.363918"
       }
     },
     "i209842082": {
       "date": "2026-11-14",
       "intervals": {
-        "attempts": 1,
+        "attempts": 2,
         "first_seen": "2026-11-14T14:55:13.272021",
-        "last_attempt": "2026-11-14T14:55:13.272021",
+        "last_attempt": "2026-11-14T15:24:46.363918",
         "status": "ok",
         "reason": "ok",
-        "source_icu_sync_date": "2026-11-14T10:23:11.127+00:00"
+        "source_icu_sync_date": "2026-11-14T15:24:05.552+00:00"
       },
       "streams": {
-        "attempts": 1,
+        "attempts": 2,
         "first_seen": "2026-11-14T14:55:13.272021",
-        "last_attempt": "2026-11-14T14:55:13.272021",
+        "last_attempt": "2026-11-14T15:24:46.363918",
         "status": "pending",
         "reason": "no_data",
-        "next_retry_at": "2026-11-14T15:00:13.272021"
+        "next_retry_at": "2026-11-14T15:29:46.363918"
       }
     }
   }

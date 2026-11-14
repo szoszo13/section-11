@@ -71,7 +71,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-11-14T15:24:47.129169",
+    "last_updated": "2026-11-14T18:21:15.777843",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.128"
@@ -298,7 +298,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 20760,
+      "steps": 21000,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -360,9 +360,9 @@
     "hard_days_this_week": 1,
     "hard_days_note": "Power ladder: z3+ >= 30min, z4+ >= 10min, z5+ >= 5min, z6+ >= 2min, z7 >= 1min. HR fallback (when no power): z4+ >= 10min, z5+ >= 5min. Per Seiler 3-zone model + Foster. HR-based days flagged with intensity_basis: hr",
     "seiler_tid_7d": {
-      "z1_seconds": 7147,
-      "z2_seconds": 1370,
-      "z3_seconds": 8459,
+      "z1_seconds": 7153,
+      "z2_seconds": 1376,
+      "z3_seconds": 8447,
       "z1_pct": 42.1,
       "z2_pct": 8.1,
       "z3_pct": 49.8,
@@ -371,9 +371,9 @@
       "zone_basis": "hr"
     },
     "seiler_tid_7d_primary": {
-      "z1_seconds": 7147,
-      "z2_seconds": 1370,
-      "z3_seconds": 8459,
+      "z1_seconds": 7153,
+      "z2_seconds": 1376,
+      "z3_seconds": 8447,
       "z1_pct": 42.1,
       "z2_pct": 8.1,
       "z3_pct": 49.8,
@@ -383,9 +383,9 @@
       "sport": "run"
     },
     "seiler_tid_28d": {
-      "z1_seconds": 28163,
-      "z2_seconds": 9579,
-      "z3_seconds": 16970,
+      "z1_seconds": 28169,
+      "z2_seconds": 9585,
+      "z3_seconds": 16958,
       "z1_pct": 51.5,
       "z2_pct": 17.5,
       "z3_pct": 31.0,
@@ -394,9 +394,9 @@
       "zone_basis": "hr"
     },
     "seiler_tid_28d_primary": {
-      "z1_seconds": 22908,
-      "z2_seconds": 9579,
-      "z3_seconds": 16970,
+      "z1_seconds": 22914,
+      "z2_seconds": 9585,
+      "z3_seconds": 16958,
       "z1_pct": 46.3,
       "z2_pct": 19.4,
       "z3_pct": 34.3,
@@ -565,7 +565,7 @@
     "p_max": 163,
     "power_model_source": "wellness.sportInfo",
     "vo2max": 43.0,
-    "calculation_timestamp": "2026-11-14T15:24:47.128541",
+    "calculation_timestamp": "2026-11-14T18:21:15.776757",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -592,7 +592,7 @@
       "avg_power": null,
       "normalized_power": null,
       "avg_hr": 144,
-      "max_hr": 169,
+      "max_hr": 154,
       "avg_cadence": 83.632095,
       "avg_speed": 10.8,
       "avg_speed_unit": "KPH",
@@ -637,13 +637,13 @@
       "effort_response": "positive",
       "zone_distribution": {
         "hr_zones": {
-          "z1_time": 57,
-          "z2_time": 5,
-          "z3_time": 25,
-          "z4_time": 806,
+          "z1_time": 58,
+          "z2_time": 10,
+          "z3_time": 31,
+          "z4_time": 809,
           "z5_time": 1726,
           "z6_time": 1887,
-          "z7_time": 199
+          "z7_time": 184
         }
       },
       "has_intervals": true,
@@ -3176,7 +3176,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 20760,
+      "steps": 21000,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,

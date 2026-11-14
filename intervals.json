@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T15:24:46.363918",
+  "generated_at": "2026-11-14T18:21:14.455342",
   "schema_version": 1,
   "version": "3.128",
   "script_hash": "bdb9610cbd7c",
@@ -1505,34 +1505,34 @@
       "type": "Run",
       "name": "Si\u00f3fok harmadmaraton",
       "interval_summary": [
-        "1x 9m57s 140bpm",
+        "1x 9m35s 140bpm",
         "12x 5m32s 145bpm",
         "1x 48s 152bpm"
       ],
       "intervals": [
         {
           "type": "RECOVERY",
-          "duration_secs": 60,
-          "moving_secs": 60,
+          "duration_secs": 82,
+          "moving_secs": 82,
           "start_secs": 0,
-          "end_secs": 60,
-          "avg_hr": 108,
-          "max_hr": 121,
+          "end_secs": 82,
+          "avg_hr": 115,
+          "max_hr": 150,
           "min_hr": 91,
-          "avg_cadence": 86.76667,
+          "avg_cadence": 86.46342,
           "zone": 1
         },
         {
           "type": "WORK",
-          "label": "597s@140bpm85rpm",
-          "duration_secs": 597,
-          "moving_secs": 597,
-          "start_secs": 60,
+          "label": "575s@140bpm85rpm",
+          "duration_secs": 575,
+          "moving_secs": 575,
+          "start_secs": 82,
           "end_secs": 657,
           "avg_hr": 140,
-          "max_hr": 169,
-          "min_hr": 123,
-          "avg_cadence": 84.57957,
+          "max_hr": 151,
+          "min_hr": 100,
+          "avg_cadence": 84.53913,
           "zone": 4
         },
         {
@@ -1840,12 +1840,11 @@
         "source_icu_sync_date": "2026-11-11T17:01:08.470+00:00"
       },
       "streams": {
-        "attempts": 4,
+        "attempts": 5,
         "first_seen": "2026-11-11T17:49:51.655029",
-        "last_attempt": "2026-11-14T15:24:46.363918",
-        "status": "pending",
-        "reason": "no_data",
-        "next_retry_at": "2026-11-14T15:29:46.363918"
+        "last_attempt": "2026-11-14T18:21:14.455342",
+        "status": "tombstone",
+        "reason": "retry_expired"
       }
     },
     "i209605414": {
@@ -1859,31 +1858,31 @@
         "source_icu_sync_date": "2026-11-13T16:20:58.254+00:00"
       },
       "streams": {
-        "attempts": 3,
+        "attempts": 4,
         "first_seen": "2026-11-13T16:48:46.310737",
-        "last_attempt": "2026-11-14T15:24:46.363918",
+        "last_attempt": "2026-11-14T18:21:14.455342",
         "status": "pending",
         "reason": "no_data",
-        "next_retry_at": "2026-11-14T15:29:46.363918"
+        "next_retry_at": "2026-11-14T18:26:14.455342"
       }
     },
     "i209842082": {
       "date": "2026-11-14",
       "intervals": {
-        "attempts": 2,
+        "attempts": 3,
         "first_seen": "2026-11-14T14:55:13.272021",
-        "last_attempt": "2026-11-14T15:24:46.363918",
+        "last_attempt": "2026-11-14T18:21:14.455342",
         "status": "ok",
         "reason": "ok",
-        "source_icu_sync_date": "2026-11-14T15:24:05.552+00:00"
+        "source_icu_sync_date": "2026-11-14T18:03:10.881+00:00"
       },
       "streams": {
-        "attempts": 2,
+        "attempts": 3,
         "first_seen": "2026-11-14T14:55:13.272021",
-        "last_attempt": "2026-11-14T15:24:46.363918",
+        "last_attempt": "2026-11-14T18:21:14.455342",
         "status": "pending",
         "reason": "no_data",
-        "next_retry_at": "2026-11-14T15:29:46.363918"
+        "next_retry_at": "2026-11-14T18:26:14.455342"
       }
     }
   }
